@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Michael T. Lawson'
+theme = 'ananke'
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/"
+weight = 10
+
+[outputs]
+home = ["atom", "html", "paige-search", "rss"]
+
+[params]
+  text_color = ""
+  author = "Michael T. Lawson"
+  favicon = ""
+  site_logo = ""
+  description = "Personal site for Michael T. Lawson"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-near-black"
+  body_classes = "courier bg-near-white"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/lawson_m_t"

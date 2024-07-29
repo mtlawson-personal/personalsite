@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+        <icon>http://localhost:1313/</icon>
+    
+
+    <id>tag:localhost:1313,2024-07-12:/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="http://localhost:1313/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="http://localhost:1313/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="http://localhost:1313/paige-search.json" rel="alternate" type="application/json"/>
+        
+    
+        
+
+        
+
+        
+            <link href="http://localhost:1313/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+
+    
+        <logo>http://localhost:1313/</logo>
+    
+
+    
+
+    
+
+    <title type="html"><![CDATA[My New Hugo Site]]></title>
+    <updated>2024-07-12T23:51:27-04:00</updated>
+
+    
+</feed>

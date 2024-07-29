@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Michael T. Lawson on Michael T. Lawson</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About Michael T. Lawson on Michael T. Lawson</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/</guid>
+      <description>Poetry Snakes of Southeast Asia (Four Way Review, Issue 11, 2017)&#xA;Reading Poems I Wrote a Decade Ago and The Book of IHOP (Tar River Poetry, Volume 58.1, 2018)&#xA;Doubting (Ninth Letter, Volume 16.01, 2019)&#xA;Death as an Inadequate Metaphor for the Absorbing State of a Markov Chain (Nimrod International Journal, Volume 64.2, 2021)&#xA;Bliss as a Metaphor for the Catenary Curve and Proof by Contradiction (Grist Journal, Issue 16, 2024)</description>
+    </item>
+    <item>
+      <title>Podcasts</title>
+      <link>http://localhost:1313/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/</guid>
+      <description>Klaviyo Data Science Podcast The Klaviyo Data Science Podcast is a podcast about building data science solutions, from the algorithm to the software environment that enables it to the human environment that makes software development possible. It is intended for all audiences who love data science, veterans and newcomers alike. Listen in to hear about cutting-edge data science work that impacts real users&amp;rsquo; lives, learn the tools of the trade from real data scientists and software engineers, and keep up to date on what&amp;rsquo;s happening in the wider world of data science.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description> Your Name Email Address An email address is required. Message </description>
+    </item>
+  </channel>
+</rss>
