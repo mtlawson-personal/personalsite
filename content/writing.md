@@ -21,6 +21,8 @@ weight: 10
 
 5. [Bliss as a Metaphor for the Catenary Curve](https://gristjournal.com/2024/05/bliss-as-a-metaphor-for-the-catenary-curve/) and [Proof by Contradiction](https://drive.google.com/file/d/1eJ2z44Lvhrm2tmHgWYrF9D01at_pfC94/view?usp=sharing) (*Grist Journal*, Issue 16, 2024)
 
+6. [Proof](https://drive.google.com/file/d/1YyeRA7GyHfgkYIYyavV4wzolBuuPIcHU/view?usp=drive_link) (*Spoon River Poetry Review*, Issue 49.1, 2024)
+
 ## Patents
 
 1. [Guided account warming for establishing sending reputations](https://patentimages.storage.googleapis.com/cc/1b/30/87ffd9c47dea99/US11756073.pdf) (Thomas Blanchard, Michael T. Lawson, *et al.* 2023, United States Patent no. 11756073)
