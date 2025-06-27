@@ -23,6 +23,10 @@ weight: 10
 
 6. [Proof](https://drive.google.com/file/d/1YyeRA7GyHfgkYIYyavV4wzolBuuPIcHU/view?usp=drive_link) (*Spoon River Poetry Review*, Issue 49.1, 2024)
 
+### Prizes
+
+1. [2025 Marsh Hawk Press Poetry Prize](https://marshhawkpress.org/2025-marsh-hawk-press-poetry-prizes/): Finalist
+
 ## Fiction
 
 1. [God Is My Co-Founder](https://www.feignlit.com/featured/god-is-my-co-founder-michael-t-lawson) (*Feign*, 2025)
