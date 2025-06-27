@@ -23,6 +23,10 @@ weight: 10
 
 6. [Proof](https://drive.google.com/file/d/1YyeRA7GyHfgkYIYyavV4wzolBuuPIcHU/view?usp=drive_link) (*Spoon River Poetry Review*, Issue 49.1, 2024)
 
+## Fiction
+
+1. [God Is My Co-Founder](https://www.feignlit.com/featured/god-is-my-co-founder-michael-t-lawson) (*Feign*, 2025)
+
 ## Patents
 
 1. [Guided account warming for establishing sending reputations](https://patentimages.storage.googleapis.com/cc/1b/30/87ffd9c47dea99/US11756073.pdf) (Thomas Blanchard, Michael T. Lawson, *et al.* 2023, United States Patent no. 11756073)
