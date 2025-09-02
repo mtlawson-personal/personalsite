@@ -9,6 +9,10 @@ weight: 10
 
 ---
 
+## *Proof*
+
+My first book of poetry, *Proof*, was selected as Editor's Choice in the 2025 Richard Snyder Memorial Poetry Prize. It is forthcoming from Ashland Poetry Press in 2026. For more details, see [the press announcement](https://ashlandpoetrypress.com/2025-richard-snyder-prize-winner-is-k-t-landon/). 
+
 ## Poetry
 
 1. [Snakes of Southeast Asia](https://fourwayreview.com/snakes-of-southeast-asia-by-michael-lawson/) (*Four Way Review*, Issue 11, 2017)
@@ -22,6 +26,8 @@ weight: 10
 5. [Bliss as a Metaphor for the Catenary Curve](https://gristjournal.com/2024/05/bliss-as-a-metaphor-for-the-catenary-curve/) and [Proof by Contradiction](https://drive.google.com/file/d/1eJ2z44Lvhrm2tmHgWYrF9D01at_pfC94/view?usp=sharing) (*Grist Journal*, Issue 16, 2024)
 
 6. [Proof](https://drive.google.com/file/d/1YyeRA7GyHfgkYIYyavV4wzolBuuPIcHU/view?usp=drive_link) (*Spoon River Poetry Review*, Issue 49.1, 2024)
+
+7. [Because You Asked How I Could Stand Math](https://baltimorereview.org/summer_2025/contributor/michael-t-lawson) (*Baltimore Review*, Summer 2025)
 
 ### Prizes
 
