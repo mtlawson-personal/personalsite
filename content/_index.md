@@ -11,9 +11,9 @@ cascade:
 
 Welcome! This is the personal site for Michael T. Lawson, data scientist and writer from Boston, MA. If you're here, you likely know me for one of four reasons:
 
-1. I am a data scientist, most recently at Klaviyo, where I was a Data Science Manager. This is also where my academic background lies -- before Klaviyo, I was in the Biostatistics department at the University of North Carolina at Chapel Hill, finishing up my PhD in machine learning methods for precision medicine. You can find a list of my published academic works on my Writing page. 
+1. I am a data scientist and manager of data science teams, currently at EverQuote, formerly at Klaviyo. This is also where my academic background lies -- before Klaviyo, I earned a PhD in Biostatistics at the University of North Carolina at Chapel Hill, focusing on developing new machine learning methods for precision medicine. You can find a list of my published academic works on my Writing page. 
 
-2. I am a writer, most often published in poetry. My first book, *Proof*, was the Editor's Choice in Ashland Poetry Press's 2025 Richard Snyder Memorial Prize, and it is forthcoming in 2026. Individual examples of my work appear in *Tar River Poetry*, *Feigh Lit*, *Spoon River Poetry Review*, *Nimrod International Journal*, *Grist Journal*, and *Ninth Letter*, among others. You can find links to my published work on my Writing page. 
+2. I am a writer, most often a poet. My first book, *Proof*, was the Editor's Choice in Ashland Poetry Press's 2025 Richard Snyder Memorial Prize and is forthcoming in November 2026. Individual examples of my work appear in *Tar River Poetry*, *Feign Lit*, *Spoon River Poetry Review*, *Nimrod International Journal*, *Grist Journal*, and *Ninth Letter*, among others. You can find links to my published work on my Writing page. 
 
 3. I am the host of two podcasts: the Klaviyo Data Science Podcast, a podcast about data science, software engineering, and all the things that are necessary to make those happen; and the Slumscast, a podcast about genuinely trying and spectacularly failing to be good at the card game Netrunner. You can find more information and links to both on my Podcasts/Commentary page. 
 
