@@ -13,9 +13,9 @@ weight: 20
 
 {{< figure float=right width=40% src="/images/podcast_base_logo.jpg" >}}
 
-The [Klaviyo Data Science Podcast](https://podcasters.spotify.com/pod/show/klaviyo-data-science) is a podcast about building data science solutions, from the algorithm to the software environment that enables it to the human environment that makes software development possible. It is intended for all audiences who love data science, veterans and newcomers alike. Listen in to hear about cutting-edge data science work that impacts real users' lives, learn the tools of the trade from real data scientists and software engineers, and keep up to date on what's happening in the wider world of data science. 
+The [Klaviyo Data Science Podcast](https://podcasters.spotify.com/pod/show/klaviyo-data-science) is a podcast about building data science solutions, from the algorithm to the software environment that enables it to the human environment that makes software development possible. Veterans and newcomers alike can listen in to hear about cutting-edge data science work that impacts real users' lives, learn the tools of the trade from real data scientists and software engineers, and keep up to date on what's happening in the wider world of data science. 
 
-I am the founder, co-producer, and co-host of the Klaviyo Data Science Podcast. 
+I was the founder, co-producer, and co-host of the Klaviyo Data Science Podcast from 2020-2026.
 
 ## The Slumscast
 
