@@ -9,9 +9,10 @@ weight: 10
 
 ---
 
+{{< figure float=right width=40% src="/images/macrostructure.jpg" >}}
+
 My first book of poetry, *Proof*, was selected as Editor's Choice in the 2025 Richard Snyder Memorial Poetry Prize. It is forthcoming from Ashland Poetry Press in November 2026. See [the press announcement](https://ashlandpoetrypress.com/2025-richard-snyder-prize-winner-is-k-t-landon/) for more details. 
 
-{{< figure float=right width=40% src="/images/macrostructure.jpg" >}}
 *The cover will feature the stunning* Macrostructure *by Desmond Clarke.* 
 
 Advanced praise for *Proof*: 
