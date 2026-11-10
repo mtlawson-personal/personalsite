@@ -17,7 +17,7 @@ My first book of poetry, *Proof*, was selected as Editor's Choice in the 2025 Ri
 
 # Events 
 
-* January 2, 2027: Talking Animal Books, Grapevine, TX -- [Local Author Spotlight](https://www.talkinganimalsbooks.com/pages/events), TX, 2-4 PM 
+* January 2, 2027: Talking Animal Books, Grapevine, TX -- [Local Author Spotlight](https://www.talkinganimalsbooks.com/pages/events), 2-4 PM 
 * January 14, 2027: The Grolier Poetry Bookshop, Cambridge, MA -- [Reading with Steven Haven and K. T. Landon](https://www.grolierpoetrybookshop.org/upcoming-events), 7 PM
 * February 11, 2027: Menino Arts Center, Hyde Park, MA -- [2nd Thursday Poetry Readings](https://www.hpaa-mac.org/poetry-readings/), 7-9 PM 
 
