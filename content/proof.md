@@ -11,11 +11,19 @@ weight: 10
 
 {{< figure float=right width=40% src="/images/proof_cover_v0.png" >}}
 
-My first book of poetry, *Proof*, was selected as Editor's Choice in the 2025 Richard Snyder Memorial Poetry Prize. It is forthcoming from Ashland Poetry Press in December 2026. See [the press announcement](https://ashlandpoetrypress.com/2025-richard-snyder-prize-winner-is-k-t-landon/) for more details. 
+My first book of poetry, *Proof*, was selected as Editor's Choice in the 2025 Richard Snyder Memorial Poetry Prize. [Preorder it now from Ashland Poetry Press!](https://itascabooks.com/products/proof-1) 
 
-*The cover will feature the stunning* Macrostructure *by Desmond Clarke.* 
+*The cover features the stunning* Macrostructure *by Desmond Clarke.* 
 
-Advanced praise for *Proof*: 
+# Events 
+
+* January 2, 2027: Talking Animal Books, Grapevine, TX -- [Local Author Spotlight](https://www.talkinganimalsbooks.com/pages/events), TX, 2-4 PM 
+* January 14, 2027: The Grolier Poetry Bookshop, Cambridge, MA -- [Reading with Steven Haven and K. T. Landon](https://www.grolierpoetrybookshop.org/upcoming-events), 7 PM
+* February 11, 2027: Menino Arts Center, Hyde Park, MA -- [2nd Thursday Poetry Readings](https://www.hpaa-mac.org/poetry-readings/), 7-9 PM 
+
+And more to be announced! 
+
+# Praise for *Proof*:
 
 > "In Michael T. Lawson’s debut collection, Proof, the precision of mathematics collides with the disarray of human longing to create a thrilling form of reasoning. Lawson’s formally determined poems attempt to solve, to quantify, to order the chaotic and dangerous randomnesses of the heart. Implicit in *Proof* is a kind of prayer that our world might behave more like a Markov chain, where the future is independent of the past, and that through mathematics, we might inch closer to comprehending a thing as vast and unknowable as the sublime. Sharp, cerebral, and deeply moving, *Proof* is wise to the distance between the calculated and the felt, what can be demonstrated and what remains the domain of hope."
 
